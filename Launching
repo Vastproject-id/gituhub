@@ -1,0 +1,13 @@
+<nav class="bg-gray-800 p-4 shadow-lg">
+  <div class="max-w-7xl mx-auto flex items-center justify-between">
+    <div class="text-white text-2xl font-bold">Bengkel Karya Logam</div>
+    <ul class="flex space-x-4 text-white text-sm md:text-base">
+      <li><a href="#pagar" class="hover:text-yellow-400">Pagar</a></li>
+      <li><a href="#kanopi" class="hover:text-yellow-400">Kanopi</a></li>
+      <li><a href="#railing" class="hover:text-yellow-400">Railing</a></li>
+      <li><a href="#tangga" class="hover:text-yellow-400">Tangga</a></li>
+      <li><a href="#racking" class="hover:text-yellow-400">Racking</a></li>
+      <li><a href="#tralis" class="hover:text-yellow-400">Tralis</a></li>
+    </ul>
+  </div>
+</nav>
